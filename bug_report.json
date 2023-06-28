@@ -1,2 +1,9 @@
 {
-  
+ "name": "bug reports",
+  "enviroment": "samsung S21 FE",
+  "title>Don't work buttom": "try now", 
+  "steps": ["navigate to site", "select any Language", "select block", "scroll down"],
+  "expected result": "buttom is work",
+  "actual result": "buttom does't work",
+  "link": "yes"
+}
